@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "533043955797",
+    "firebase_url": "https://attendance-app-7f610.firebaseio.com",
+    "project_id": "attendance-app-7f610",
+    "storage_bucket": "attendance-app-7f610.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533043955797:android:14cb000463f3329d0d6cdc",
+        "android_client_info": {
+          "package_name": "io.matherly.attendanceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533043955797-1kcpec21hrmt02bslvidvo98nsmbib97.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq8NoQEXiWpAr32mdVKM-uDwHaKNwTSdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533043955797-1kcpec21hrmt02bslvidvo98nsmbib97.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "533043955797-2al2fb1qg0gma4ttpedocojsp9rn9f9e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.matherly.attendanceapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
